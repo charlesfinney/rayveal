@@ -1,6 +1,6 @@
 <!-- .slide: data-state="title" -->
-# RayVeal
-opinionated reveal.js
+# Bitcoin the Workshop
+with Charles Finney & Shelby White
 
 ---
 
