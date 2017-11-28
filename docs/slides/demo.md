@@ -7,7 +7,7 @@ with Charles Finney & Shelby White
 ## Famous Artist 
 
 - Grab/Fork from [repo](http://github.com/planetoftheweb/rayveal)
-- `docs` folder has presentation
+- `docs` folder has your presentation
 - `slides/demo.md` subfolder has main markdown
 
 ---
