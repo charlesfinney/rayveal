@@ -1,11 +1,10 @@
 <!-- .slide: data-state="title" -->
 # Bitcoin the Workshop
-with 
-Charles Finney & Shelby White
+with Charles Finney & Shelby White
 
 ---
 
-## Installing
+## Famous Artist 
 
 - Grab/Fork from [repo](http://github.com/planetoftheweb/rayveal)
 - `docs` folder has presentation
@@ -13,7 +12,7 @@ Charles Finney & Shelby White
 
 ---
 
-## 100% Markdown
+## Who is Charles Finney
 
 - Rayveal assumes you want to use markdown to create slides. The `index.html` file points to a markdown file in `slides/demo.md`.
 
