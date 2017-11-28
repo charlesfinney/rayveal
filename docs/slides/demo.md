@@ -1,6 +1,7 @@
 <!-- .slide: data-state="title" -->
 # Bitcoin the Workshop
-with Charles Finney & Shelby White
+with 
+Charles Finney & Shelby White
 
 ---
 
